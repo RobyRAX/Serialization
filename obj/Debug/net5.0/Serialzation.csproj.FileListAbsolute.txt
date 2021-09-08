@@ -1,0 +1,16 @@
+D:\My Docs\Matkul Faheem Semester 5\Serialzation\bin\Debug\net5.0\Serialzation.exe
+D:\My Docs\Matkul Faheem Semester 5\Serialzation\bin\Debug\net5.0\Serialzation.deps.json
+D:\My Docs\Matkul Faheem Semester 5\Serialzation\bin\Debug\net5.0\Serialzation.runtimeconfig.json
+D:\My Docs\Matkul Faheem Semester 5\Serialzation\bin\Debug\net5.0\Serialzation.runtimeconfig.dev.json
+D:\My Docs\Matkul Faheem Semester 5\Serialzation\bin\Debug\net5.0\Serialzation.dll
+D:\My Docs\Matkul Faheem Semester 5\Serialzation\bin\Debug\net5.0\ref\Serialzation.dll
+D:\My Docs\Matkul Faheem Semester 5\Serialzation\bin\Debug\net5.0\Serialzation.pdb
+D:\My Docs\Matkul Faheem Semester 5\Serialzation\obj\Debug\net5.0\Serialzation.csproj.AssemblyReference.cache
+D:\My Docs\Matkul Faheem Semester 5\Serialzation\obj\Debug\net5.0\Serialzation.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Docs\Matkul Faheem Semester 5\Serialzation\obj\Debug\net5.0\Serialzation.AssemblyInfoInputs.cache
+D:\My Docs\Matkul Faheem Semester 5\Serialzation\obj\Debug\net5.0\Serialzation.AssemblyInfo.cs
+D:\My Docs\Matkul Faheem Semester 5\Serialzation\obj\Debug\net5.0\Serialzation.csproj.CoreCompileInputs.cache
+D:\My Docs\Matkul Faheem Semester 5\Serialzation\obj\Debug\net5.0\Serialzation.dll
+D:\My Docs\Matkul Faheem Semester 5\Serialzation\obj\Debug\net5.0\ref\Serialzation.dll
+D:\My Docs\Matkul Faheem Semester 5\Serialzation\obj\Debug\net5.0\Serialzation.pdb
+D:\My Docs\Matkul Faheem Semester 5\Serialzation\obj\Debug\net5.0\Serialzation.genruntimeconfig.cache
