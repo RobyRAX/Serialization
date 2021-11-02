@@ -9,13 +9,13 @@ using System.Threading.Tasks;
 namespace DemoApplication
 {
   [Serializable]
-  class Tutorial
+  class Serial
   {
   public int ID;
   public String Name;
    static void Main(string[] args)
    {
-    Tutorial obj = new Tutorial();
+    Serial obj = new Serial();
     obj.ID = 1;
     obj.Name = ".Net";
 
@@ -26,7 +26,7 @@ namespace DemoApplication
     stream.Close();
 
     stream = new FileStream(@"D:\My Docs\Matkul Faheem Semester 5\Serialzation\Test.txt",FileMode.Open,FileAccess.Read);
-    Tutorial objnew = (Tutorial)formatter.Deserialize(stream);
+    Serial objnew = (Serial)formatter.Deserialize(stream);
 
     Console.WriteLine(objnew.ID);
     Console.WriteLine(objnew.Name);
